@@ -1,0 +1,115 @@
+{
+  "models": {
+    "Memorization": {
+      "mean_spearman_similar": 0.20673076923076925,
+      "std_spearman_similar": 0.18931062652056663,
+      "mean_spearman_novel": 0.1775384615384615,
+      "std_spearman_novel": 0.16872241830257714,
+      "mean_novelty_gap": 0.029192307692307677,
+      "std_novelty_gap": 0.22566633417215384,
+      "memorization_diagnostics": {
+        "corr_surface_similarity": 0.3737627657627658,
+        "corr_true_taste": 0.01974633174633175,
+        "memorization_bias": 0.35401643401643407
+      }
+    },
+    "TasteModel": {
+      "mean_spearman_similar": 0.3976923076923077,
+      "std_spearman_similar": 0.1595604168558698,
+      "mean_spearman_novel": 0.25549999999999995,
+      "std_spearman_novel": 0.253964107210998,
+      "mean_novelty_gap": 0.14219230769230773,
+      "std_novelty_gap": 0.2052993592855977,
+      "memorization_diagnostics": {
+        "corr_surface_similarity": 0.2551917871917872,
+        "corr_true_taste": 0.2818669498669499,
+        "memorization_bias": -0.026675162675162678
+      }
+    },
+    "Oracle": {
+      "mean_spearman_similar": 0.9381923076923078,
+      "std_spearman_similar": 0.020102216604793485,
+      "mean_spearman_novel": 0.9512692307692306,
+      "std_spearman_novel": 0.024315815341864343,
+      "mean_novelty_gap": -0.013076923076923125,
+      "std_novelty_gap": 0.024275294865941443,
+      "memorization_diagnostics": {
+        "corr_surface_similarity": 0.10108764508764509,
+        "corr_true_taste": 0.8656826536826537,
+        "memorization_bias": -0.7645950085950086
+      }
+    }
+  },
+  "factor_recovery": {
+    "mean_recovery": 0.3763947753085235,
+    "matched_pairs": [
+      {
+        "factor_name": "deadpan_delivery",
+        "true_index": 0,
+        "learned_index": 4,
+        "absolute_correlation": 0.2830738054176409
+      },
+      {
+        "factor_name": "observational_depth",
+        "true_index": 1,
+        "learned_index": 1,
+        "absolute_correlation": 0.38285486478951203
+      },
+      {
+        "factor_name": "technical_rigor",
+        "true_index": 2,
+        "learned_index": 3,
+        "absolute_correlation": 0.2831788633009611
+      },
+      {
+        "factor_name": "absurdist_humor",
+        "true_index": 3,
+        "learned_index": 2,
+        "absolute_correlation": 0.4528365610290477
+      },
+      {
+        "factor_name": "visual_craft",
+        "true_index": 4,
+        "learned_index": 0,
+        "absolute_correlation": 0.48002978200545565
+      }
+    ],
+    "correlation_matrix": [
+      [
+        0.10881938555211021,
+        0.146755653352857,
+        0.2680357906432698,
+        0.29955864367570906,
+        0.2830738054176409
+      ],
+      [
+        0.04610147514729124,
+        0.38285486478951203,
+        0.4591381025928302,
+        0.3065558513403061,
+        0.11462196971240383
+      ],
+      [
+        0.043001365526943794,
+        0.2300232636789556,
+        0.21393428546245327,
+        0.2831788633009611,
+        0.0044428830517703344
+      ],
+      [
+        0.14983576364413706,
+        0.3115356684279793,
+        0.4528365610290477,
+        0.0010421174774367986,
+        0.3411586605827352
+      ],
+      [
+        0.48002978200545565,
+        0.13592270246198473,
+        0.06286817858104422,
+        0.04830809748242841,
+        0.31463357190710695
+      ]
+    ]
+  }
+}

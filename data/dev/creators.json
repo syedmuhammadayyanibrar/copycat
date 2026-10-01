@@ -1,0 +1,362 @@
+{
+  "creator_00": {
+    "creator_id": "creator_00",
+    "taste_vector": [
+      -0.3078243552898489,
+      0.09336981686425908,
+      -0.7359965885070548,
+      0.5417227985002961,
+      0.24773307183359314
+    ],
+    "baseline_scale": 9.883181005912254,
+    "familiar_formats": [
+      "field_vlog",
+      "silent_essay"
+    ],
+    "familiar_thumbnails": [
+      "face_closeup"
+    ]
+  },
+  "creator_01": {
+    "creator_id": "creator_01",
+    "taste_vector": [
+      0.35753292803672576,
+      -0.7355238615521046,
+      -0.27628563579097826,
+      0.3965628329728152,
+      0.31237640982813675
+    ],
+    "baseline_scale": 10.91419082049691,
+    "familiar_formats": [
+      "tutorial",
+      "silent_essay"
+    ],
+    "familiar_thumbnails": [
+      "face_closeup"
+    ]
+  },
+  "creator_02": {
+    "creator_id": "creator_02",
+    "taste_vector": [
+      0.3466809107238093,
+      0.31315940820243493,
+      -0.30728200125715427,
+      0.8123569890381951,
+      -0.16552167609774562
+    ],
+    "baseline_scale": 10.420932221041008,
+    "familiar_formats": [
+      "sketch",
+      "silent_essay"
+    ],
+    "familiar_thumbnails": [
+      "diagram_schematic"
+    ]
+  },
+  "creator_03": {
+    "creator_id": "creator_03",
+    "taste_vector": [
+      0.2614509473756498,
+      -0.17393195433870315,
+      -0.020832223635054607,
+      0.6739056510909516,
+      -0.6684371842307953
+    ],
+    "baseline_scale": 10.379869691724405,
+    "familiar_formats": [
+      "mini_doc",
+      "tutorial"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_04": {
+    "creator_id": "creator_04",
+    "taste_vector": [
+      -0.23435341909304078,
+      -0.49244506549584705,
+      -0.8169317705855946,
+      0.1871957757147985,
+      0.012512241630206264
+    ],
+    "baseline_scale": 9.960775249604268,
+    "familiar_formats": [
+      "screen_breakdown",
+      "field_vlog"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_05": {
+    "creator_id": "creator_05",
+    "taste_vector": [
+      -0.22970765074435384,
+      0.8108649897785327,
+      0.5361985912916897,
+      -0.0038966078836526687,
+      -0.04699202788536113
+    ],
+    "baseline_scale": 9.962938958662287,
+    "familiar_formats": [
+      "screen_breakdown",
+      "silent_essay"
+    ],
+    "familiar_thumbnails": [
+      "diagram_schematic"
+    ]
+  },
+  "creator_06": {
+    "creator_id": "creator_06",
+    "taste_vector": [
+      0.25651014020007584,
+      0.5652698218910915,
+      -0.28591581453362863,
+      -0.45527301206880877,
+      -0.5706585738557839
+    ],
+    "baseline_scale": 9.55314347801995,
+    "familiar_formats": [
+      "sketch",
+      "screen_breakdown"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_07": {
+    "creator_id": "creator_07",
+    "taste_vector": [
+      -0.2535844319395306,
+      0.5152547708352475,
+      0.03227533598426993,
+      0.7629216705414679,
+      0.29515467862586986
+    ],
+    "baseline_scale": 9.305896878118341,
+    "familiar_formats": [
+      "talking_head",
+      "sketch"
+    ],
+    "familiar_thumbnails": [
+      "high_contrast_action"
+    ]
+  },
+  "creator_08": {
+    "creator_id": "creator_08",
+    "taste_vector": [
+      -0.4526467901161405,
+      0.48755922529533696,
+      -0.5679274792201708,
+      -0.47580872702137406,
+      0.09198542745395827
+    ],
+    "baseline_scale": 10.166401544087243,
+    "familiar_formats": [
+      "sketch",
+      "silent_essay"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_09": {
+    "creator_id": "creator_09",
+    "taste_vector": [
+      0.36526075406027875,
+      -0.44155490357734567,
+      0.6588764948620914,
+      -0.4507656344613258,
+      -0.1852186707031455
+    ],
+    "baseline_scale": 10.171099648667207,
+    "familiar_formats": [
+      "field_vlog",
+      "tutorial"
+    ],
+    "familiar_thumbnails": [
+      "face_closeup"
+    ]
+  },
+  "creator_10": {
+    "creator_id": "creator_10",
+    "taste_vector": [
+      0.7470087354488836,
+      -0.205759763998235,
+      0.32668491916036513,
+      0.5390105793131823,
+      -0.04884084012487667
+    ],
+    "baseline_scale": 9.921062989664037,
+    "familiar_formats": [
+      "screen_breakdown",
+      "tutorial"
+    ],
+    "familiar_thumbnails": [
+      "diagram_schematic"
+    ]
+  },
+  "creator_11": {
+    "creator_id": "creator_11",
+    "taste_vector": [
+      0.34179905707783825,
+      0.07589536065262953,
+      0.4346978449108681,
+      -0.2338334365713811,
+      0.7960986159912431
+    ],
+    "baseline_scale": 10.681704316075551,
+    "familiar_formats": [
+      "sketch",
+      "talking_head"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_12": {
+    "creator_id": "creator_12",
+    "taste_vector": [
+      0.1186605977158631,
+      -0.006955022022783168,
+      -0.24604947655004508,
+      0.96152036271501,
+      0.028452370590540864
+    ],
+    "baseline_scale": 10.66199457650839,
+    "familiar_formats": [
+      "mini_doc",
+      "silent_essay"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_13": {
+    "creator_id": "creator_13",
+    "taste_vector": [
+      -0.15805060535553064,
+      0.590229607891361,
+      -0.693831285894327,
+      -0.3369025784659347,
+      0.17816794170778902
+    ],
+    "baseline_scale": 9.47988766094057,
+    "familiar_formats": [
+      "sketch",
+      "silent_essay"
+    ],
+    "familiar_thumbnails": [
+      "minimalist_text"
+    ]
+  },
+  "creator_14": {
+    "creator_id": "creator_14",
+    "taste_vector": [
+      0.022998949884784646,
+      -0.38754776204929786,
+      -0.3391322825058764,
+      -0.5056488802861514,
+      -0.6917993099609839
+    ],
+    "baseline_scale": 10.404588718458601,
+    "familiar_formats": [
+      "mini_doc",
+      "sketch"
+    ],
+    "familiar_thumbnails": [
+      "high_contrast_action"
+    ]
+  },
+  "creator_15": {
+    "creator_id": "creator_15",
+    "taste_vector": [
+      0.30038457369398625,
+      0.42346955206978604,
+      0.24056815869598694,
+      0.2129139262493169,
+      -0.7919831231707023
+    ],
+    "baseline_scale": 10.71275161142132,
+    "familiar_formats": [
+      "sketch",
+      "tutorial"
+    ],
+    "familiar_thumbnails": [
+      "minimalist_text"
+    ]
+  },
+  "creator_16": {
+    "creator_id": "creator_16",
+    "taste_vector": [
+      -0.6320083961937045,
+      -0.2278903617923814,
+      0.4054705088461554,
+      0.13388189878460277,
+      0.6052277866858627
+    ],
+    "baseline_scale": 10.107096269208977,
+    "familiar_formats": [
+      "field_vlog",
+      "sketch"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_17": {
+    "creator_id": "creator_17",
+    "taste_vector": [
+      0.1709406342816746,
+      0.6355129403587585,
+      0.2699783423259063,
+      0.7007568757614585,
+      -0.05435161392212204
+    ],
+    "baseline_scale": 9.50037736585817,
+    "familiar_formats": [
+      "field_vlog",
+      "tutorial"
+    ],
+    "familiar_thumbnails": [
+      "face_closeup"
+    ]
+  },
+  "creator_18": {
+    "creator_id": "creator_18",
+    "taste_vector": [
+      -0.1894670411003644,
+      0.6972728534156352,
+      -0.12842573764330506,
+      0.36802696110251526,
+      0.5709428991052536
+    ],
+    "baseline_scale": 9.799428823252077,
+    "familiar_formats": [
+      "field_vlog",
+      "mini_doc"
+    ],
+    "familiar_thumbnails": [
+      "meme_edit"
+    ]
+  },
+  "creator_19": {
+    "creator_id": "creator_19",
+    "taste_vector": [
+      -0.7906724046814405,
+      0.04717182454560681,
+      -0.26355208474455366,
+      -0.07754648928941071,
+      0.5451044010737703
+    ],
+    "baseline_scale": 9.866478415896253,
+    "familiar_formats": [
+      "tutorial",
+      "sketch"
+    ],
+    "familiar_thumbnails": [
+      "high_contrast_action"
+    ]
+  }
+}
